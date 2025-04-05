@@ -1,5 +1,6 @@
 {
   "attack": false,
   "website": "https://example.com",
-  "worker_count_per_infected": 25
+  "worker_count_per_infected": 25,
+  "request_amount_till_completion" 5000
 }
