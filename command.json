@@ -1,5 +1,5 @@
 {
-  "attack": true,
+  "attack": false,
   "website": "https://31-lovat-iota.vercel.app/",
   "worker_count_per_infected": 25,
   "request_amount_per_worker": 5000
