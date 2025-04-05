@@ -1,4 +1,5 @@
 {
   "attack": false,
-  "website": "https://example.com"
+  "website": "https://example.com",
+  "worker_count_per_infected": 25
 }
